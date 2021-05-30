@@ -15,9 +15,8 @@ paises = []
 
 for i in range(len(result)):
     ventas.append(int(result[i][1]))
-
-for i in range(len(result)):
     paises.append(result[i][0])
+ 
 
 print(ventas)
 
