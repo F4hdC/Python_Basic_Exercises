@@ -1,4 +1,5 @@
-﻿class Alumno:
+﻿# F4hdC ©
+class Alumno:
     nombre=""
     apellidos=""
     edad=""
